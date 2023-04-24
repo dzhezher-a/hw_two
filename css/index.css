@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.privet-ot-alexeya {
+  width: 100%;
+  height: 100%;
+  background: url(../img/alexey.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
